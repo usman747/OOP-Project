@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2010\Projects\login\bin\Debug\login.exe
+c:\users\user\documents\visual studio 2010\Projects\login\bin\Debug\login.pdb
+c:\users\user\documents\visual studio 2010\Projects\login\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\login\obj\x86\Debug\login.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\login\obj\x86\Debug\login.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\login\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\login\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\login\obj\x86\Debug\login.exe
+c:\users\user\documents\visual studio 2010\Projects\login\obj\x86\Debug\login.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\login\bin\Debug\itextsharp.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\login\bin\Debug\itextsharp.pdfa.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\login\bin\Debug\itextsharp.xtra.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\login\obj\x86\Debug\login.Form5checkstock.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\login\obj\x86\Debug\login.Form2adminmenu.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\login\obj\x86\Debug\login.Form3usermenu.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\login\obj\x86\Debug\login.Form4modifystock.resources
+D:\USMAN\CASE\2nd SEMESTER\OOP & DATA STRUCTURES IN C++\PROJECT MIS\FINAL PROJECT OOP\login\obj\x86\Debug\login.exe
+D:\USMAN\CASE\2nd SEMESTER\OOP & DATA STRUCTURES IN C++\PROJECT MIS\FINAL PROJECT OOP\login\obj\x86\Debug\login.pdb
